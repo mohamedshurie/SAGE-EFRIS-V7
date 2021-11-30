@@ -1,0 +1,4 @@
+2021-11-22 16:37:07 -- CRN-E0013 was not success due to You don't have permission to issue credit memo!
+2021-11-22 16:37:13 -- CRN-E0014 was not success due to You don't have permission to issue credit memo!
+2021-11-22 16:37:18 -- CRN-E0013 was not success due to You don't have permission to issue credit memo!
+2021-11-22 16:37:23 -- CRN-E0014 was not success due to You don't have permission to issue credit memo!
