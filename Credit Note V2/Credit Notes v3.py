@@ -322,8 +322,10 @@ def getGoods(docno):
             "exciseRateName": ""
         }
         invoiceGoods.append(invoiceitems)
-    print(invoiceGoods)
-    return invoiceGoods
+    # EFRIS requires that all orders be in order of the orderNumber key in json
+    # The below lambda function is utilized for that aspect
+    newInvoiceGoods = sorted(invoiceGoods, key=lambda i: i['orderNumber'])
+    return newInvoiceGoods
 # --------------------------------------------------------
 
 # MAIN FUNCTION THAT SENDS THE ENTIRE JSON AND MAKES THE NECCESARY CHANGES TO THE DB BASED ON RESPONSES
