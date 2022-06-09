@@ -1,0 +1,2 @@
+2022-06-09 11:43:52 -- EFRIS-0035 was not success due to goodsDetails-->discountTotal:'discountFlag' is '0' or '2', therefore 'discountTotal' must be empty!Collection index:0
+2022-06-09 11:44:18 -- EFRIS-0035 was not success due to goodsDetails-->discountTotal:'discountFlag' is '0' or '2', therefore 'discountTotal' must be empty!Collection index:0

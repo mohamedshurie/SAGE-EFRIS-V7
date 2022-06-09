@@ -1,0 +1,4 @@
+2022-03-15 16:06:24 -- EFRIS-0031 was not success due to summary-->taxAmount:cannot be empty!
+2022-03-15 16:09:41 -- EFRIS-0031 was not success due to summary-->taxAmount:cannot be empty!
+2022-03-15 16:09:46 -- EFRIS-0031 was not success due to summary-->taxAmount:cannot be empty!
+2022-03-15 16:12:10 -- EFRIS-0031 was a success and the URA inv no is : 321021898273 and InvoiceID = 125840413889397309

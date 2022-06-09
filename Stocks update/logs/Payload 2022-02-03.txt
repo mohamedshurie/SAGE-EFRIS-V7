@@ -1,0 +1,160 @@
+2022-02-03 14:22:43 -- 7357.0001-70044-GRV0007--{
+    "data": {
+ "content": "eyJnb29kc1N0b2NrSW4iOiB7Im9wZXJhdGlvblR5cGUiOiAiMTAxIiwgInN1cHBsaWVyVGluIjogIiIsICJzdXBwbGllck5hbWUiOiAiIiwgImFkanVzdFR5cGUiOiAiIiwgInJlbWFya3MiOiAiSW1wb3J0IGludmVudG9yeSA3MzU3LjAwMDEtNzAwNDQtR1JWMDAwNyIsICJzdG9ja0luRGF0ZSI6ICIyMDIyLTAyLTAzIDE0OjI0OjQzIiwgInN0b2NrSW5UeXBlIjogIjEwMyIsICJwcm9kdWN0aW9uQmF0Y2hObyI6ICIiLCAicHJvZHVjdGlvbkRhdGUiOiAiIiwgImJyYW5jaElkIjogIiJ9LCAiZ29vZHNTdG9ja0luSXRlbSI6IFt7ImNvbW1vZGl0eUdvb2RzSWQiOiAiIiwgImdvb2RzQ29kZSI6ICJFRlJJUzAwMSIsICJtZWFzdXJlVW5pdCI6ICJOb25lIiwgInF1YW50aXR5IjogIjEwMC4wIiwgInVuaXRQcmljZSI6ICI1MDAwLjAifV19",
+ "signature": "",
+  "dataDescription": {
+  "codeType": "0",
+ "encryptCode": "0",
+                     "zipCode": "0"
+        }
+    },
+    "globalInfo": {
+        "appId": "AP04",
+        "version": "1.1.20191201",
+        "dataExchangeId": "B741F5702A2B17819A61F127DD114BF5",
+        "interfaceCode": "T131",
+        "requestCode": "TP",
+        "requestTime": "2022-02-03 14:24:43",
+        "responseCode": "TA",
+        "userName": "admin",
+        "deviceMAC": "42010A800004",
+        "deviceNo": "TCS194fa4260515997",
+        "tin": "1000055502",
+        "brn": "",
+        "taxpayerID": "1000055502",
+        "longitude": "0.3638158281194207",
+        "latitude": "32.679369188110776"
+    },
+    "returnStateInfo": {
+        "returnCode": "",
+        "returnMessage": ""
+    }
+}
+2022-02-03 14:23:44 -- 7357.0001-70044-GRV0007--{
+    "data": {
+ "content": "eyJnb29kc1N0b2NrSW4iOiB7Im9wZXJhdGlvblR5cGUiOiAiMTAxIiwgInN1cHBsaWVyVGluIjogIiIsICJzdXBwbGllck5hbWUiOiAiIiwgImFkanVzdFR5cGUiOiAiIiwgInJlbWFya3MiOiAiSW1wb3J0IGludmVudG9yeSA3MzU3LjAwMDEtNzAwNDQtR1JWMDAwNyIsICJzdG9ja0luRGF0ZSI6ICIyMDIyLTAyLTAzIDE0OjI1OjQ0IiwgInN0b2NrSW5UeXBlIjogIjEwMyIsICJwcm9kdWN0aW9uQmF0Y2hObyI6ICIiLCAicHJvZHVjdGlvbkRhdGUiOiAiIiwgImJyYW5jaElkIjogIiJ9LCAiZ29vZHNTdG9ja0luSXRlbSI6IFt7ImNvbW1vZGl0eUdvb2RzSWQiOiAiIiwgImdvb2RzQ29kZSI6ICJFRlJJUzAwMSIsICJtZWFzdXJlVW5pdCI6ICJOb25lIiwgInF1YW50aXR5IjogIjEwMC4wIiwgInVuaXRQcmljZSI6ICI1MDAwLjAifV19",
+ "signature": "",
+  "dataDescription": {
+  "codeType": "0",
+ "encryptCode": "0",
+                     "zipCode": "0"
+        }
+    },
+    "globalInfo": {
+        "appId": "AP04",
+        "version": "1.1.20191201",
+        "dataExchangeId": "B741F5702A2B17819A61F127DD114BF5",
+        "interfaceCode": "T131",
+        "requestCode": "TP",
+        "requestTime": "2022-02-03 14:25:44",
+        "responseCode": "TA",
+        "userName": "admin",
+        "deviceMAC": "42010A800004",
+        "deviceNo": "TCS194fa4260515997",
+        "tin": "1000055502",
+        "brn": "",
+        "taxpayerID": "1000055502",
+        "longitude": "0.3638158281194207",
+        "latitude": "32.679369188110776"
+    },
+    "returnStateInfo": {
+        "returnCode": "",
+        "returnMessage": ""
+    }
+}
+2022-02-03 14:24:45 -- 7357.0001-70044-GRV0007--{
+    "data": {
+ "content": "eyJnb29kc1N0b2NrSW4iOiB7Im9wZXJhdGlvblR5cGUiOiAiMTAxIiwgInN1cHBsaWVyVGluIjogIiIsICJzdXBwbGllck5hbWUiOiAiIiwgImFkanVzdFR5cGUiOiAiIiwgInJlbWFya3MiOiAiSW1wb3J0IGludmVudG9yeSA3MzU3LjAwMDEtNzAwNDQtR1JWMDAwNyIsICJzdG9ja0luRGF0ZSI6ICIyMDIyLTAyLTAzIDE0OjI2OjQ1IiwgInN0b2NrSW5UeXBlIjogIjEwMyIsICJwcm9kdWN0aW9uQmF0Y2hObyI6ICIiLCAicHJvZHVjdGlvbkRhdGUiOiAiIiwgImJyYW5jaElkIjogIiJ9LCAiZ29vZHNTdG9ja0luSXRlbSI6IFt7ImNvbW1vZGl0eUdvb2RzSWQiOiAiIiwgImdvb2RzQ29kZSI6ICJFRlJJUzAwMSIsICJtZWFzdXJlVW5pdCI6ICJOb25lIiwgInF1YW50aXR5IjogIjEwMC4wIiwgInVuaXRQcmljZSI6ICI1MDAwLjAifV19",
+ "signature": "",
+  "dataDescription": {
+  "codeType": "0",
+ "encryptCode": "0",
+                     "zipCode": "0"
+        }
+    },
+    "globalInfo": {
+        "appId": "AP04",
+        "version": "1.1.20191201",
+        "dataExchangeId": "B741F5702A2B17819A61F127DD114BF5",
+        "interfaceCode": "T131",
+        "requestCode": "TP",
+        "requestTime": "2022-02-03 14:26:45",
+        "responseCode": "TA",
+        "userName": "admin",
+        "deviceMAC": "42010A800004",
+        "deviceNo": "TCS194fa4260515997",
+        "tin": "1000055502",
+        "brn": "",
+        "taxpayerID": "1000055502",
+        "longitude": "0.3638158281194207",
+        "latitude": "32.679369188110776"
+    },
+    "returnStateInfo": {
+        "returnCode": "",
+        "returnMessage": ""
+    }
+}
+2022-02-03 14:25:02 -- 7357.0001-70044-GRV0007--{
+    "data": {
+ "content": "eyJnb29kc1N0b2NrSW4iOiB7Im9wZXJhdGlvblR5cGUiOiAiMTAxIiwgInN1cHBsaWVyVGluIjogIiIsICJzdXBwbGllck5hbWUiOiAiIiwgImFkanVzdFR5cGUiOiAiIiwgInJlbWFya3MiOiAiSW1wb3J0IGludmVudG9yeSA3MzU3LjAwMDEtNzAwNDQtR1JWMDAwNyIsICJzdG9ja0luRGF0ZSI6ICIyMDIyLTAyLTAzIDE0OjI3OjAyIiwgInN0b2NrSW5UeXBlIjogIjEwMyIsICJwcm9kdWN0aW9uQmF0Y2hObyI6ICIiLCAicHJvZHVjdGlvbkRhdGUiOiAiIiwgImJyYW5jaElkIjogIiJ9LCAiZ29vZHNTdG9ja0luSXRlbSI6IFt7ImNvbW1vZGl0eUdvb2RzSWQiOiAiIiwgImdvb2RzQ29kZSI6ICJFRlJJUzAwMSIsICJtZWFzdXJlVW5pdCI6ICJOb25lIiwgInF1YW50aXR5IjogIjEwMC4wIiwgInVuaXRQcmljZSI6ICI1MDAwLjAifV19",
+ "signature": "",
+  "dataDescription": {
+  "codeType": "0",
+ "encryptCode": "0",
+                     "zipCode": "0"
+        }
+    },
+    "globalInfo": {
+        "appId": "AP04",
+        "version": "1.1.20191201",
+        "dataExchangeId": "B741F5702A2B17819A61F127DD114BF5",
+        "interfaceCode": "T131",
+        "requestCode": "TP",
+        "requestTime": "2022-02-03 14:27:02",
+        "responseCode": "TA",
+        "userName": "admin",
+        "deviceMAC": "42010A800004",
+        "deviceNo": "TCS194fa4260515997",
+        "tin": "1000055502",
+        "brn": "",
+        "taxpayerID": "1000055502",
+        "longitude": "0.3638158281194207",
+        "latitude": "32.679369188110776"
+    },
+    "returnStateInfo": {
+        "returnCode": "",
+        "returnMessage": ""
+    }
+}
+2022-02-03 14:25:02 -- 7357.0002-70045---{
+    "data": {
+ "content": "eyJnb29kc1N0b2NrSW4iOiB7Im9wZXJhdGlvblR5cGUiOiAiMTAxIiwgInN1cHBsaWVyVGluIjogIiIsICJzdXBwbGllck5hbWUiOiAiIiwgImFkanVzdFR5cGUiOiAiIiwgInJlbWFya3MiOiAiSW1wb3J0IGludmVudG9yeSA3MzU3LjAwMDItNzAwNDUtIiwgInN0b2NrSW5EYXRlIjogIjIwMjItMDItMDMgMTQ6Mjc6MDIiLCAic3RvY2tJblR5cGUiOiAiMTAzIiwgInByb2R1Y3Rpb25CYXRjaE5vIjogIiIsICJwcm9kdWN0aW9uRGF0ZSI6ICIiLCAiYnJhbmNoSWQiOiAiIn0sICJnb29kc1N0b2NrSW5JdGVtIjogW3siY29tbW9kaXR5R29vZHNJZCI6ICIiLCAiZ29vZHNDb2RlIjogIk1GSTAwMSIsICJtZWFzdXJlVW5pdCI6ICJQQ0UiLCAicXVhbnRpdHkiOiAiNTAwLjAiLCAidW5pdFByaWNlIjogIjg1MDAuMCJ9XX0=",
+ "signature": "",
+  "dataDescription": {
+  "codeType": "0",
+ "encryptCode": "0",
+                     "zipCode": "0"
+        }
+    },
+    "globalInfo": {
+        "appId": "AP04",
+        "version": "1.1.20191201",
+        "dataExchangeId": "B741F5702A2B17819A61F127DD114BF5",
+        "interfaceCode": "T131",
+        "requestCode": "TP",
+        "requestTime": "2022-02-03 14:27:02",
+        "responseCode": "TA",
+        "userName": "admin",
+        "deviceMAC": "42010A800004",
+        "deviceNo": "TCS194fa4260515997",
+        "tin": "1000055502",
+        "brn": "",
+        "taxpayerID": "1000055502",
+        "longitude": "0.3638158281194207",
+        "latitude": "32.679369188110776"
+    },
+    "returnStateInfo": {
+        "returnCode": "",
+        "returnMessage": ""
+    }
+}

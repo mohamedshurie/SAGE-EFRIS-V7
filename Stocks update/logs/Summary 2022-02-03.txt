@@ -1,0 +1,5 @@
+2022-02-03 14:22:43 -- 7357.0001-70044-GRV0007 has failed to synced with Efris
+2022-02-03 14:23:44 -- 7357.0001-70044-GRV0007 has failed to synced with Efris
+2022-02-03 14:24:45 -- 7357.0001-70044-GRV0007 has failed to synced with Efris
+2022-02-03 14:25:02 -- 7357.0001-70044-GRV0007 has failed to synced with Efris
+2022-02-03 14:25:02 -- 7357.0002-70045- has been synced with Efris - in

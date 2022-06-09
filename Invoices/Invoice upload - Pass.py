@@ -368,7 +368,7 @@ def sendInvoice():
 
 sendInvoice()
 # ENSURES THAT THE MAIN FUNCTION IS OPERATING AFTER EVERY 3 MINUTES
-schedule.every(1).minutes.do(sendInvoice)
+schedule.every(20).seconds.do(sendInvoice)
 while True:
     schedule.run_pending()
     time.sleep(1)

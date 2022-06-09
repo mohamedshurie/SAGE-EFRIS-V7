@@ -482,7 +482,7 @@ def sendJson():
 
 sendJson()
 # ENSURES THAT THE MAIN FUNCTION IS OPERATING AFTER EVERY 3 MINUTES
-schedule.every(1).minutes.do(sendJson)
+schedule.every(20).seconds.do(sendJson)
 while True:
     schedule.run_pending()
     time.sleep(1)

@@ -1,0 +1,54 @@
+2022-06-02 13:38:32 -- ----------------------------------------------------------------------------------------------------------------
+2022-06-02 13:38:32 -- -------------------------------------------EFRIS-0032---------------------------------------------------------------------
+2022-06-02 13:38:34 -- {'data': {'content': '', 'dataDescription': {'codeType': '0', 'encryptCode': '0', 'zipCode': '0'}, 'signature': ''}, 'globalInfo': {'appId': 'AP04', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS194fa4260515997', 'interfaceCode': 'T109', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-06-02 13:40:32', 'responseCode': 'TA', 'taxpayerID': '291054725098967758', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '402', 'returnMessage': 'Device key expired'}}
+2022-06-02 13:38:34 -- 
+
+
+2022-06-02 13:38:55 -- ----------------------------------------------------------------------------------------------------------------
+2022-06-02 13:38:55 -- -------------------------------------------EFRIS-0032---------------------------------------------------------------------
+2022-06-02 13:38:56 -- {'data': {'content': '', 'dataDescription': {'codeType': '0', 'encryptCode': '0', 'zipCode': '0'}, 'signature': ''}, 'globalInfo': {'appId': 'AP04', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS194fa4260515997', 'interfaceCode': 'T109', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-06-02 13:40:55', 'responseCode': 'TA', 'taxpayerID': '291054725098967758', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '402', 'returnMessage': 'Device key expired'}}
+2022-06-02 13:38:56 -- 
+
+
+2022-06-02 13:40:01 -- ----------------------------------------------------------------------------------------------------------------
+2022-06-02 13:40:01 -- -------------------------------------------EFRIS-0032---------------------------------------------------------------------
+2022-06-02 13:40:02 -- {'data': {'content': '', 'dataDescription': {'codeType': '0', 'encryptCode': '0', 'zipCode': '0'}, 'signature': ''}, 'globalInfo': {'appId': 'AP04', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS194fa4260515997', 'interfaceCode': 'T109', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-06-02 13:42:01', 'responseCode': 'TA', 'taxpayerID': '291054725098967758', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '402', 'returnMessage': 'Device key expired'}}
+2022-06-02 13:40:02 -- 
+
+
+2022-06-02 13:41:08 -- ----------------------------------------------------------------------------------------------------------------
+2022-06-02 13:41:08 -- -------------------------------------------EFRIS-0032---------------------------------------------------------------------
+2022-06-02 13:41:08 -- {'data': {'content': '', 'dataDescription': {'codeType': '0', 'encryptCode': '0', 'zipCode': '0'}, 'signature': ''}, 'globalInfo': {'appId': 'AP04', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS194fa4260515997', 'interfaceCode': 'T109', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-06-02 13:43:08', 'responseCode': 'TA', 'taxpayerID': '291054725098967758', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '402', 'returnMessage': 'Device key expired'}}
+2022-06-02 13:41:08 -- 
+
+
+2022-06-02 13:42:14 -- ----------------------------------------------------------------------------------------------------------------
+2022-06-02 13:42:14 -- -------------------------------------------EFRIS-0032---------------------------------------------------------------------
+2022-06-02 13:42:14 -- {'data': {'content': '', 'dataDescription': {'codeType': '0', 'encryptCode': '0', 'zipCode': '0'}, 'signature': ''}, 'globalInfo': {'appId': 'AP04', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS194fa4260515997', 'interfaceCode': 'T109', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-06-02 13:44:14', 'responseCode': 'TA', 'taxpayerID': '291054725098967758', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '402', 'returnMessage': 'Device key expired'}}
+2022-06-02 13:42:14 -- 
+
+
+2022-06-02 13:43:20 -- ----------------------------------------------------------------------------------------------------------------
+2022-06-02 13:43:20 -- -------------------------------------------EFRIS-0032---------------------------------------------------------------------
+2022-06-02 13:43:20 -- {'data': {'content': '', 'dataDescription': {'codeType': '0', 'encryptCode': '0', 'zipCode': '0'}, 'signature': ''}, 'globalInfo': {'appId': 'AP04', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS194fa4260515997', 'interfaceCode': 'T109', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-06-02 13:45:20', 'responseCode': 'TA', 'taxpayerID': '291054725098967758', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '402', 'returnMessage': 'Device key expired'}}
+2022-06-02 13:43:20 -- 
+
+
+2022-06-02 13:44:26 -- ----------------------------------------------------------------------------------------------------------------
+2022-06-02 13:44:26 -- -------------------------------------------EFRIS-0032---------------------------------------------------------------------
+2022-06-02 13:44:26 -- {'data': {'content': '', 'dataDescription': {'codeType': '0', 'encryptCode': '0', 'zipCode': '0'}, 'signature': ''}, 'globalInfo': {'appId': 'AP04', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS194fa4260515997', 'interfaceCode': 'T109', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-06-02 13:46:26', 'responseCode': 'TA', 'taxpayerID': '291054725098967758', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '402', 'returnMessage': 'Device key expired'}}
+2022-06-02 13:44:26 -- 
+
+
+2022-06-02 13:45:32 -- ----------------------------------------------------------------------------------------------------------------
+2022-06-02 13:45:32 -- -------------------------------------------EFRIS-0032---------------------------------------------------------------------
+2022-06-02 13:45:33 -- {'data': {'content': '', 'dataDescription': {'codeType': '0', 'encryptCode': '0', 'zipCode': '0'}, 'signature': ''}, 'globalInfo': {'appId': 'AP04', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS194fa4260515997', 'interfaceCode': 'T109', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-06-02 13:47:32', 'responseCode': 'TA', 'taxpayerID': '291054725098967758', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '402', 'returnMessage': 'Device key expired'}}
+2022-06-02 13:45:33 -- 
+
+
+2022-06-02 13:46:38 -- ----------------------------------------------------------------------------------------------------------------
+2022-06-02 13:46:38 -- -------------------------------------------EFRIS-0032---------------------------------------------------------------------
+2022-06-02 13:46:38 -- {'data': {'content': '', 'dataDescription': {'codeType': '0', 'encryptCode': '0', 'zipCode': '0'}, 'signature': ''}, 'globalInfo': {'appId': 'AP04', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS194fa4260515997', 'interfaceCode': 'T109', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-06-02 13:48:38', 'responseCode': 'TA', 'taxpayerID': '291054725098967758', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '402', 'returnMessage': 'Device key expired'}}
+2022-06-02 13:46:38 -- 
+
+

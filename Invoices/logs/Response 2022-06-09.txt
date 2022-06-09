@@ -1,0 +1,12 @@
+2022-06-09 11:43:51 -- ----------------------------------------------------------------------------------------------------------------
+2022-06-09 11:43:51 -- -------------------------------------------EFRIS-0035---------------------------------------------------------------------
+2022-06-09 11:43:52 -- {'data': {'content': '', 'dataDescription': {'codeType': '0', 'encryptCode': '2', 'zipCode': '0'}, 'signature': ''}, 'globalInfo': {'appId': 'AP02', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS40c1ac3547653399', 'extendField': {}, 'interfaceCode': 'T109', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-06-09 11:45:51', 'responseCode': 'TA', 'taxpayerID': '1', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '1205', 'returnMessage': "goodsDetails-->discountTotal:'discountFlag' is '0' or '2', therefore 'discountTotal' must be empty!Collection index:0"}}
+2022-06-09 11:43:52 -- 
+
+
+2022-06-09 11:44:17 -- ----------------------------------------------------------------------------------------------------------------
+2022-06-09 11:44:17 -- -------------------------------------------EFRIS-0035---------------------------------------------------------------------
+2022-06-09 11:44:18 -- {'data': {'content': '', 'dataDescription': {'codeType': '0', 'encryptCode': '2', 'zipCode': '0'}, 'signature': ''}, 'globalInfo': {'appId': 'AP02', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS40c1ac3547653399', 'extendField': {}, 'interfaceCode': 'T109', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-06-09 11:46:17', 'responseCode': 'TA', 'taxpayerID': '1', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '1205', 'returnMessage': "goodsDetails-->discountTotal:'discountFlag' is '0' or '2', therefore 'discountTotal' must be empty!Collection index:0"}}
+2022-06-09 11:44:18 -- 
+
+

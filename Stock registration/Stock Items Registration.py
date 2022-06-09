@@ -2,7 +2,6 @@ import requests
 import datetime
 import base64
 import json
-# import qrcode
 import pyodbc
 import pyqrcode
 import png
@@ -32,6 +31,7 @@ dbname = (config['info']['database'])
 dbpass = (config['info']['password'])
 dbserver = (config['info']['server'])
 qrcodefolder = (config['info']['qrcodefolder'])
+dbuser = (config['info']['dbuser'])
 
 # -------------------------
 
@@ -57,10 +57,10 @@ headers = {
 }
 
 
-server = dbserver
-database = dbname
-username = 'sa'
-password = dbpass
+server = 'SQL-SRV-01\VMSQL12'
+database = 'BackupTHL'
+username = 'evoadmin1'
+password = 'Gatecr@09'
 
 try:
     # conn = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER=' +
@@ -80,18 +80,18 @@ def getGoods():
     dt = dt_plus_2.strftime("%Y-%m-%d %H:%M:%S")
     allGoods = []
     goods = []
-    sql = '''SELECT [Code],Description_1, [ucIIURACode], ROUND(AveUCst,2) as unitcost ,
-            (case when iUOMStockingUnitID= 6 then '103' when iUOMStockingUnitID = 4 then 'SW' when iUOMStockingUnitID = 2 then 'PCE' end) 
-            FROM stkitem where ucIIURACode is not null and ucIIURAid != 'registered' and AveUCst > 0'''
+    sql = '''SELECT [Code],Description_1, [ucIIURACode], 100 as unitcost ,
+            'UN' as UoM 
+            FROM stkitem where ucIIURACode is not null and ucIIURAid != 'registered' '''
     cursor.execute(sql)
     for row in cursor:
         allGoods.append(row)
     for item in allGoods:
         itemsinfo = {
-            "operationType": "101",
+            "operationType": "102",
             "goodsName": f"{item[1]}".replace('\n', ' cls'),
             "goodsCode": f"{item[0]}",
-            "measureUnit": "PCE",
+            "measureUnit": f"{item[4]}",
             "unitPrice": f"{item[3]}",
             "currency": "101",
             "commodityCategoryId": f"{item[2]}",
@@ -133,7 +133,7 @@ def getGoods():
                     print(f"{stkcode} / {stkname} was Registered Succefully")
                     logURA(f"{stkcode} / {stkname} was Registered Succefully")
                     print(content_decoded)
-                    time.sleep(5)
+                    time.sleep(1)
                 else:
                     print('not registered')
                     r = content_decoded[0]['returnMessage']

@@ -1,0 +1,2 @@
+2022-06-07 11:23:48 -- EFRIS-0033 was a success and the URA inv no is : 321023200501 and InvoiceID = 539697463089137050
+2022-06-07 13:06:18 -- EFRIS-0034 was a success and the URA inv no is : 321023200996 and InvoiceID = 540312380640356966

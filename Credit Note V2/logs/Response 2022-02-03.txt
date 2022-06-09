@@ -1,0 +1,331 @@
+2022-02-03 13:34:36 -- {
+    "data": {
+ "content": "eyJyZWZlcmVuY2VObyI6ICIyMlBMMDEwMjY4ODI4IiwgInF1ZXJ5VHlwZSI6ICIxIiwgInBhZ2VObyI6ICIxIiwgInBhZ2VTaXplIjogIjEwIn0=",
+ "signature": "",
+  "dataDescription": {
+  "codeType": "0",
+ "encryptCode": "0",
+                     "zipCode": "0"
+        }
+    },
+    "globalInfo": {
+        "appId": "AP04",
+        "version": "1.1.20191201",
+        "dataExchangeId": "B741F5702A2B17819A61F127DD114BF5",
+        "interfaceCode": "T111",
+        "requestCode": "TP",
+        "requestTime": "2022-02-03 13:36:36",
+        "responseCode": "TA",
+        "userName": "admin",
+        "deviceMAC": "42010A800004",
+        "deviceNo": "TCS194fa4260515997",
+        "tin": "1000055502",
+        "brn": "",
+        "taxpayerID": "1000055502",
+        "longitude": "0.3638158281194207",
+        "latitude": "32.679369188110776"
+    },
+    "returnStateInfo": {
+        "returnCode": "",
+        "returnMessage": ""
+    }
+}
+2022-02-03 13:34:36 -- {'data': {'content': 'eyJkYXRlRm9ybWF0IjoiZGQvTU0veXl5eSIsIm5vd1RpbWUiOiIyMDIyLzAyLzAzIDEzOjM0OjM3IiwicGFnZSI6eyJwYWdlQ291bnQiOjEsInBhZ2VObyI6MSwicGFnZVNpemUiOjEwLCJ0b3RhbFNpemUiOjF9LCJyZWNvcmRzIjpbeyJhcHBsaWNhdGlvblRpbWUiOiIwNC8xMS8yMDIxIDE0OjU3OjAzIiwiYXBwcm92ZVN0YXR1cyI6IjEwMyIsImJ1c2luZXNzTmFtZSI6Ik5PUkJST09LIChVKSBMVEQiLCJidXllckJ1c2luZXNzTmFtZSI6Ik9LIFNVUEVSTUFSS0VUIExJTUlURUQiLCJidXllckxlZ2FsTmFtZSI6Ik9LIFNVUEVSTUFSS0VUIExJTUlURUQiLCJidXllclRpbiI6IjEwMTY5ODM1ODMiLCJjdXJyZW5jeSI6IlVHWCIsImRhdGFTb3VyY2UiOiIxMDYiLCJncm9zc0Ftb3VudCI6Ii0yNDc4MCIsImlkIjoiMTI2MTQ0NTA0NDMyNDgxNzgzIiwiaW52b2ljZUFwcGx5Q2F0ZWdvcnlDb2RlIjoiMTAxIiwibGVnYWxOYW1lIjoiVEVTVCBFRlJJUyIsIm5vd1RpbWUiOiIyMDIyLzAyLzAzIDEzOjM0OjM3Iiwib3JpR3Jvc3NBbW91bnQiOiIyMzk1NDAiLCJvcmlJbnZvaWNlTm8iOiIzMjEwMTk5MzUwODUiLCJwYWdlSW5kZXgiOjAsInBhZ2VObyI6MCwicGFnZVNpemUiOjAsInJlZmVyZW5jZU5vIjoiMjJQTDAxMDI2ODgyOCIsInNvdXJjZSI6IjEwNiIsInRpbiI6IjEwMDAwNTU1MDIiLCJ0b3RhbEFtb3VudCI6Ii0yNDc4MCIsIndhaXRpbmdEYXRlIjoiODgifV0sInRpbWVGb3JtYXQiOiJkZC9NTS95eXl5IEhIMjQ6bWk6c3MifQ==', 'dataDescription': {'codeType': '0', 'encryptCode': '2', 'zipCode': '0'}, 'signature': 'K8HGrGjiVWdl9v3VqZEHAnS1AxnAZ9BcbZmC5D5bMxFTB4rKh02JdT5+n0ZEgzdAk2CJcera3GKnOW3Rcm46Sn13ZdiF6eXpfS1KxiAvCSBvkMpEWHYocLo0ZTw928tAes1fPU2sUpNEQBYOQ7q1isqtRERLKm84IbqW+n2hmHF4YNoZY76Jg96PDdcYgV9pxfp6tYBYfyaQI1Q2DdTDGjyJveHThz4TyRm/G7+xLUPwaSKsryQOjQbU78y7JDj/tvNXfo1ZbRRqKjO5y7RIWviRobTHgCJJ2+ye4g5oZfrhIcldiAbVbuM/MvvnZ6f64QYX4jWXYMHMTHblxXsFRQ=='}, 'globalInfo': {'appId': 'AP02', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS194fa4260515997', 'extendField': {'responseDateFormat': 'dd/MM/yyyy', 'responseTimeFormat': 'dd/MM/yyyy HH:mm:ss'}, 'interfaceCode': 'T111', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-02-03 13:36:36', 'responseCode': 'TA', 'taxpayerID': '1', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '00', 'returnMessage': 'SUCCESS'}}
+2022-02-03 13:34:37 -- {'data': {'content': 'eyJyZWZlcmVuY2VObyI6IjIyUEwwMTAzMjMwODMifQ==', 'dataDescription': {'codeType': '0', 'encryptCode': '2', 'zipCode': '0'}, 'signature': 'M8Lw7OUjTDordR8++/rwfVGYNhJxtYXJVWc1Lognbw3Vj1Bm+sq4aj4qDNwGnQ35jcrWRoUcOO0aBiWM0+nA+5LK3rjJMqDoo/0hZ81T48+XbrqHnNnvLzRieVzoRG7gYbIHnajvtgz5eCROr6YIUFS+cryjN1DPgHqQc/rnp39wiXVwYzSCD7UGdfn7y+lLwPMAVvv6HmCN1XdDlvfUfxLQt0ubpMrfFqNkXG0WGboVEzV72Hj2fM8QDlsejh3ebl1SwC/vgjYCwv11q76f7Odwpecok6YklNXGs+UmZ1d4+4eTRfvfLJdHErMxfaMq0sD0CMymkhb2JFfdf1cEMw=='}, 'globalInfo': {'appId': 'AP02', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS194fa4260515997', 'extendField': {'responseDateFormat': 'dd/MM/yyyy', 'responseTimeFormat': 'dd/MM/yyyy HH:mm:ss'}, 'interfaceCode': 'T110', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-02-03 13:36:36', 'responseCode': 'TA', 'taxpayerID': '1', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '00', 'returnMessage': 'SUCCESS'}}
+2022-02-03 13:34:37 -- {
+    "data": {
+ "content": "eyJyZWZlcmVuY2VObyI6ICIyMlBMMDEwMzIzMDgzIiwgInF1ZXJ5VHlwZSI6ICIxIiwgInBhZ2VObyI6ICIxIiwgInBhZ2VTaXplIjogIjEwIn0=",
+ "signature": "",
+  "dataDescription": {
+  "codeType": "0",
+ "encryptCode": "0",
+                     "zipCode": "0"
+        }
+    },
+    "globalInfo": {
+        "appId": "AP04",
+        "version": "1.1.20191201",
+        "dataExchangeId": "B741F5702A2B17819A61F127DD114BF5",
+        "interfaceCode": "T111",
+        "requestCode": "TP",
+        "requestTime": "2022-02-03 13:36:37",
+        "responseCode": "TA",
+        "userName": "admin",
+        "deviceMAC": "42010A800004",
+        "deviceNo": "TCS194fa4260515997",
+        "tin": "1000055502",
+        "brn": "",
+        "taxpayerID": "1000055502",
+        "longitude": "0.3638158281194207",
+        "latitude": "32.679369188110776"
+    },
+    "returnStateInfo": {
+        "returnCode": "",
+        "returnMessage": ""
+    }
+}
+2022-02-03 13:34:37 -- {'data': {'content': 'eyJkYXRlRm9ybWF0IjoiZGQvTU0veXl5eSIsIm5vd1RpbWUiOiIyMDIyLzAyLzAzIDEzOjM0OjM4IiwicGFnZSI6eyJwYWdlQ291bnQiOjEsInBhZ2VObyI6MSwicGFnZVNpemUiOjEwLCJ0b3RhbFNpemUiOjF9LCJyZWNvcmRzIjpbeyJhcHBsaWNhdGlvblRpbWUiOiIwMy8wMi8yMDIyIDEzOjM0OjM3IiwiYXBwcm92ZVN0YXR1cyI6IjEwMiIsImJ1c2luZXNzTmFtZSI6Ik5PUkJST09LIChVKSBMVEQiLCJidXllckJ1c2luZXNzTmFtZSI6IkNBU0ggQ1VTVE9NRVIiLCJidXllckxlZ2FsTmFtZSI6IkNBU0ggQ1VTVE9NRVIiLCJjdXJyZW5jeSI6IlVHWCIsImRhdGFTb3VyY2UiOiIxMDYiLCJncm9zc0Ftb3VudCI6Ii0yNDc4MCIsImlkIjoiOTExODY5NzM1MDU4MTgwMjc4IiwiaW52b2ljZUFwcGx5Q2F0ZWdvcnlDb2RlIjoiMTAxIiwibGVnYWxOYW1lIjoiVEVTVCBFRlJJUyIsIm5vd1RpbWUiOiIyMDIyLzAyLzAzIDEzOjM0OjM4Iiwib3JpR3Jvc3NBbW91bnQiOiIyNDc4MCIsIm9yaUludm9pY2VObyI6IjMyMTAyMDIxMDIwNiIsInBhZ2VJbmRleCI6MCwicGFnZU5vIjowLCJwYWdlU2l6ZSI6MCwicmVmZXJlbmNlTm8iOiIyMlBMMDEwMzIzMDgzIiwic291cmNlIjoiMTA2IiwidGluIjoiMTAwMDA1NTUwMiIsInRvdGFsQW1vdW50IjoiLTI0NzgwIiwid2FpdGluZ0RhdGUiOiIwIn1dLCJ0aW1lRm9ybWF0IjoiZGQvTU0veXl5eSBISDI0Om1pOnNzIn0=', 'dataDescription': {'codeType': '0', 'encryptCode': '2', 'zipCode': '0'}, 'signature': 'UsoQbYBdeC/lDRKquRzcgqCuz+a4TL6sUEBSnFYZp/mMrSnGPbAfWjYPxx/ZPNh+FJMV7Waf8gphxl0ccDYR9PZ8EZ+x9qNztcfEhI3P1o7SXqckZLctnrso1gnHhxkQwxh4HG9+wPeG5FJqqXqeUEyyO2PYPYnhxvPI0P7lkeJHiNNyEk24Rc3AHd3vspNBTTB9YUA2K1RbU2FCSOb7lw/gUg18QoQnrZ3uMI2Cc1xf5A/VKylGtnr8QkgKD+Azy0RUNgvIny3zdFUFVXKMPWVcREmqzDuGbnWavN9mOb5XcI440oVZY9UpqpnrTvFsDn/m23p45OAdyCcWG1ChvA=='}, 'globalInfo': {'appId': 'AP02', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS194fa4260515997', 'extendField': {'responseDateFormat': 'dd/MM/yyyy', 'responseTimeFormat': 'dd/MM/yyyy HH:mm:ss'}, 'interfaceCode': 'T111', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-02-03 13:36:37', 'responseCode': 'TA', 'taxpayerID': '1', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '00', 'returnMessage': 'SUCCESS'}}
+2022-02-03 13:35:06 -- {
+    "data": {
+ "content": "eyJyZWZlcmVuY2VObyI6ICIyMlBMMDEwMjY4ODI4IiwgInF1ZXJ5VHlwZSI6ICIxIiwgInBhZ2VObyI6ICIxIiwgInBhZ2VTaXplIjogIjEwIn0=",
+ "signature": "",
+  "dataDescription": {
+  "codeType": "0",
+ "encryptCode": "0",
+                     "zipCode": "0"
+        }
+    },
+    "globalInfo": {
+        "appId": "AP04",
+        "version": "1.1.20191201",
+        "dataExchangeId": "B741F5702A2B17819A61F127DD114BF5",
+        "interfaceCode": "T111",
+        "requestCode": "TP",
+        "requestTime": "2022-02-03 13:37:06",
+        "responseCode": "TA",
+        "userName": "admin",
+        "deviceMAC": "42010A800004",
+        "deviceNo": "TCS194fa4260515997",
+        "tin": "1000055502",
+        "brn": "",
+        "taxpayerID": "1000055502",
+        "longitude": "0.3638158281194207",
+        "latitude": "32.679369188110776"
+    },
+    "returnStateInfo": {
+        "returnCode": "",
+        "returnMessage": ""
+    }
+}
+2022-02-03 13:35:06 -- {'data': {'content': 'eyJkYXRlRm9ybWF0IjoiZGQvTU0veXl5eSIsIm5vd1RpbWUiOiIyMDIyLzAyLzAzIDEzOjM1OjA3IiwicGFnZSI6eyJwYWdlQ291bnQiOjEsInBhZ2VObyI6MSwicGFnZVNpemUiOjEwLCJ0b3RhbFNpemUiOjF9LCJyZWNvcmRzIjpbeyJhcHBsaWNhdGlvblRpbWUiOiIwNC8xMS8yMDIxIDE0OjU3OjAzIiwiYXBwcm92ZVN0YXR1cyI6IjEwMyIsImJ1c2luZXNzTmFtZSI6Ik5PUkJST09LIChVKSBMVEQiLCJidXllckJ1c2luZXNzTmFtZSI6Ik9LIFNVUEVSTUFSS0VUIExJTUlURUQiLCJidXllckxlZ2FsTmFtZSI6Ik9LIFNVUEVSTUFSS0VUIExJTUlURUQiLCJidXllclRpbiI6IjEwMTY5ODM1ODMiLCJjdXJyZW5jeSI6IlVHWCIsImRhdGFTb3VyY2UiOiIxMDYiLCJncm9zc0Ftb3VudCI6Ii0yNDc4MCIsImlkIjoiMTI2MTQ0NTA0NDMyNDgxNzgzIiwiaW52b2ljZUFwcGx5Q2F0ZWdvcnlDb2RlIjoiMTAxIiwibGVnYWxOYW1lIjoiVEVTVCBFRlJJUyIsIm5vd1RpbWUiOiIyMDIyLzAyLzAzIDEzOjM1OjA3Iiwib3JpR3Jvc3NBbW91bnQiOiIyMzk1NDAiLCJvcmlJbnZvaWNlTm8iOiIzMjEwMTk5MzUwODUiLCJwYWdlSW5kZXgiOjAsInBhZ2VObyI6MCwicGFnZVNpemUiOjAsInJlZmVyZW5jZU5vIjoiMjJQTDAxMDI2ODgyOCIsInNvdXJjZSI6IjEwNiIsInRpbiI6IjEwMDAwNTU1MDIiLCJ0b3RhbEFtb3VudCI6Ii0yNDc4MCIsIndhaXRpbmdEYXRlIjoiODgifV0sInRpbWVGb3JtYXQiOiJkZC9NTS95eXl5IEhIMjQ6bWk6c3MifQ==', 'dataDescription': {'codeType': '0', 'encryptCode': '2', 'zipCode': '0'}, 'signature': 'fWmUL/Nyq48agMzowyUa9ynhdRyQp3XL2M3CxWbA59fqaWyOWuyYp99TMqmaVVfrHR/5wdYzzjM0o79XCj4hkLLIIpoDJGQRM6QdRVUY6fjqMEhvHD3b0vzlNjKEsFpIDzncHToSsVzDZswxtkhX45atefua6JPcSQwr65Vc4Up/VKOiFF+iS2lOvC2+gJGg63fCdAWRBtxrjw0QvRh2Bni6xQm4n4AeaNiWo3C8Vd/1e07W0NHH03UgX5Mw4+28wzgnl9GFtNtrHxWHksz/CRU8NsFMypdsHjpYSOvWKVa+9OCn/MxY5pkPBCWA8NTJ5Fry00Wvt5ukzz6dbFmD2A=='}, 'globalInfo': {'appId': 'AP02', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS194fa4260515997', 'extendField': {'responseDateFormat': 'dd/MM/yyyy', 'responseTimeFormat': 'dd/MM/yyyy HH:mm:ss'}, 'interfaceCode': 'T111', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-02-03 13:37:06', 'responseCode': 'TA', 'taxpayerID': '1', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '00', 'returnMessage': 'SUCCESS'}}
+2022-02-03 13:35:06 -- {
+    "data": {
+ "content": "eyJyZWZlcmVuY2VObyI6ICIyMlBMMDEwMzIzMDgzIiwgInF1ZXJ5VHlwZSI6ICIxIiwgInBhZ2VObyI6ICIxIiwgInBhZ2VTaXplIjogIjEwIn0=",
+ "signature": "",
+  "dataDescription": {
+  "codeType": "0",
+ "encryptCode": "0",
+                     "zipCode": "0"
+        }
+    },
+    "globalInfo": {
+        "appId": "AP04",
+        "version": "1.1.20191201",
+        "dataExchangeId": "B741F5702A2B17819A61F127DD114BF5",
+        "interfaceCode": "T111",
+        "requestCode": "TP",
+        "requestTime": "2022-02-03 13:37:06",
+        "responseCode": "TA",
+        "userName": "admin",
+        "deviceMAC": "42010A800004",
+        "deviceNo": "TCS194fa4260515997",
+        "tin": "1000055502",
+        "brn": "",
+        "taxpayerID": "1000055502",
+        "longitude": "0.3638158281194207",
+        "latitude": "32.679369188110776"
+    },
+    "returnStateInfo": {
+        "returnCode": "",
+        "returnMessage": ""
+    }
+}
+2022-02-03 13:35:06 -- {'data': {'content': 'eyJkYXRlRm9ybWF0IjoiZGQvTU0veXl5eSIsIm5vd1RpbWUiOiIyMDIyLzAyLzAzIDEzOjM1OjA3IiwicGFnZSI6eyJwYWdlQ291bnQiOjEsInBhZ2VObyI6MSwicGFnZVNpemUiOjEwLCJ0b3RhbFNpemUiOjF9LCJyZWNvcmRzIjpbeyJhcHBsaWNhdGlvblRpbWUiOiIwMy8wMi8yMDIyIDEzOjM0OjM3IiwiYXBwcm92ZVN0YXR1cyI6IjEwMiIsImJ1c2luZXNzTmFtZSI6Ik5PUkJST09LIChVKSBMVEQiLCJidXllckJ1c2luZXNzTmFtZSI6IkNBU0ggQ1VTVE9NRVIiLCJidXllckxlZ2FsTmFtZSI6IkNBU0ggQ1VTVE9NRVIiLCJjdXJyZW5jeSI6IlVHWCIsImRhdGFTb3VyY2UiOiIxMDYiLCJncm9zc0Ftb3VudCI6Ii0yNDc4MCIsImlkIjoiOTExODY5NzM1MDU4MTgwMjc4IiwiaW52b2ljZUFwcGx5Q2F0ZWdvcnlDb2RlIjoiMTAxIiwibGVnYWxOYW1lIjoiVEVTVCBFRlJJUyIsIm5vd1RpbWUiOiIyMDIyLzAyLzAzIDEzOjM1OjA3Iiwib3JpR3Jvc3NBbW91bnQiOiIyNDc4MCIsIm9yaUludm9pY2VObyI6IjMyMTAyMDIxMDIwNiIsInBhZ2VJbmRleCI6MCwicGFnZU5vIjowLCJwYWdlU2l6ZSI6MCwicmVmZXJlbmNlTm8iOiIyMlBMMDEwMzIzMDgzIiwic291cmNlIjoiMTA2IiwidGluIjoiMTAwMDA1NTUwMiIsInRvdGFsQW1vdW50IjoiLTI0NzgwIiwid2FpdGluZ0RhdGUiOiIwIn1dLCJ0aW1lRm9ybWF0IjoiZGQvTU0veXl5eSBISDI0Om1pOnNzIn0=', 'dataDescription': {'codeType': '0', 'encryptCode': '2', 'zipCode': '0'}, 'signature': 'b+lN87WgV4IWfsRmfQl47uGNrkJEI5oPpd60QAnRjcy4pGo6FvfnEixP4xbwy2ij+aKF4mL/WKfivOBOTz7EqKS9qoHF/mMdwTGQmBAUb8ErYyppg0OWWrjm1x1dBY4zpzDtdqDn5cgagJM7KvQ8xxNSfIii8FmXB/qblwt7fzC9PySsTtZfSCJkU0YX7T5QaQeoKzstyAXC2qOXanVkME4TQ3ngm/4A0kO4w9wIZ+wDlVFhkWpQg8+DaExHe1QFIGZWaGz7wRhRjb4rrSFrrsF9dDJ3zicqjT2RigKig9aWCaAs9J1fNduOzVJPPaRoahcysjlE4lajgsAOKzEUrQ=='}, 'globalInfo': {'appId': 'AP02', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS194fa4260515997', 'extendField': {'responseDateFormat': 'dd/MM/yyyy', 'responseTimeFormat': 'dd/MM/yyyy HH:mm:ss'}, 'interfaceCode': 'T111', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-02-03 13:37:06', 'responseCode': 'TA', 'taxpayerID': '1', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '00', 'returnMessage': 'SUCCESS'}}
+2022-02-03 13:36:07 -- {
+    "data": {
+ "content": "eyJyZWZlcmVuY2VObyI6ICIyMlBMMDEwMjY4ODI4IiwgInF1ZXJ5VHlwZSI6ICIxIiwgInBhZ2VObyI6ICIxIiwgInBhZ2VTaXplIjogIjEwIn0=",
+ "signature": "",
+  "dataDescription": {
+  "codeType": "0",
+ "encryptCode": "0",
+                     "zipCode": "0"
+        }
+    },
+    "globalInfo": {
+        "appId": "AP04",
+        "version": "1.1.20191201",
+        "dataExchangeId": "B741F5702A2B17819A61F127DD114BF5",
+        "interfaceCode": "T111",
+        "requestCode": "TP",
+        "requestTime": "2022-02-03 13:38:07",
+        "responseCode": "TA",
+        "userName": "admin",
+        "deviceMAC": "42010A800004",
+        "deviceNo": "TCS194fa4260515997",
+        "tin": "1000055502",
+        "brn": "",
+        "taxpayerID": "1000055502",
+        "longitude": "0.3638158281194207",
+        "latitude": "32.679369188110776"
+    },
+    "returnStateInfo": {
+        "returnCode": "",
+        "returnMessage": ""
+    }
+}
+2022-02-03 13:36:07 -- {'data': {'content': 'eyJkYXRlRm9ybWF0IjoiZGQvTU0veXl5eSIsIm5vd1RpbWUiOiIyMDIyLzAyLzAzIDEzOjM2OjA4IiwicGFnZSI6eyJwYWdlQ291bnQiOjEsInBhZ2VObyI6MSwicGFnZVNpemUiOjEwLCJ0b3RhbFNpemUiOjF9LCJyZWNvcmRzIjpbeyJhcHBsaWNhdGlvblRpbWUiOiIwNC8xMS8yMDIxIDE0OjU3OjAzIiwiYXBwcm92ZVN0YXR1cyI6IjEwMyIsImJ1c2luZXNzTmFtZSI6Ik5PUkJST09LIChVKSBMVEQiLCJidXllckJ1c2luZXNzTmFtZSI6Ik9LIFNVUEVSTUFSS0VUIExJTUlURUQiLCJidXllckxlZ2FsTmFtZSI6Ik9LIFNVUEVSTUFSS0VUIExJTUlURUQiLCJidXllclRpbiI6IjEwMTY5ODM1ODMiLCJjdXJyZW5jeSI6IlVHWCIsImRhdGFTb3VyY2UiOiIxMDYiLCJncm9zc0Ftb3VudCI6Ii0yNDc4MCIsImlkIjoiMTI2MTQ0NTA0NDMyNDgxNzgzIiwiaW52b2ljZUFwcGx5Q2F0ZWdvcnlDb2RlIjoiMTAxIiwibGVnYWxOYW1lIjoiVEVTVCBFRlJJUyIsIm5vd1RpbWUiOiIyMDIyLzAyLzAzIDEzOjM2OjA4Iiwib3JpR3Jvc3NBbW91bnQiOiIyMzk1NDAiLCJvcmlJbnZvaWNlTm8iOiIzMjEwMTk5MzUwODUiLCJwYWdlSW5kZXgiOjAsInBhZ2VObyI6MCwicGFnZVNpemUiOjAsInJlZmVyZW5jZU5vIjoiMjJQTDAxMDI2ODgyOCIsInNvdXJjZSI6IjEwNiIsInRpbiI6IjEwMDAwNTU1MDIiLCJ0b3RhbEFtb3VudCI6Ii0yNDc4MCIsIndhaXRpbmdEYXRlIjoiODgifV0sInRpbWVGb3JtYXQiOiJkZC9NTS95eXl5IEhIMjQ6bWk6c3MifQ==', 'dataDescription': {'codeType': '0', 'encryptCode': '2', 'zipCode': '0'}, 'signature': 'dSZ3D3kwxwy6nnf7Cq+Ckmnef4mIoZDScC9iZDsEdKwmYUdfYzH/Pk88A/RiAFFwlEBv7raiB5ddWFhbKEAJabhRg4bSqqGgxVNRtDewydAEiApYg5S2fURCinMhFzmjiBgGVa/lmi5S1dxttJfP+vcG1DVA/x1ZxGZKT0h9TkHPhYEKKcECnlD6W7zV95gw/Vg/4UXGeESnhu6zw9FaVy7isqvG+tOg/4IGhw30cuBOg1KY5MuMplhISG2yETsSBw20kBg58/guzPEkhdgf00eM2M2dMNe9ooJu2uNrnoHvJfujLQl/tvvuZP7J6ym4E/0KvT/eQjQDaCUn4LjE5g=='}, 'globalInfo': {'appId': 'AP02', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS194fa4260515997', 'extendField': {'responseDateFormat': 'dd/MM/yyyy', 'responseTimeFormat': 'dd/MM/yyyy HH:mm:ss'}, 'interfaceCode': 'T111', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-02-03 13:38:07', 'responseCode': 'TA', 'taxpayerID': '1', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '00', 'returnMessage': 'SUCCESS'}}
+2022-02-03 13:36:07 -- {
+    "data": {
+ "content": "eyJyZWZlcmVuY2VObyI6ICIyMlBMMDEwMzIzMDgzIiwgInF1ZXJ5VHlwZSI6ICIxIiwgInBhZ2VObyI6ICIxIiwgInBhZ2VTaXplIjogIjEwIn0=",
+ "signature": "",
+  "dataDescription": {
+  "codeType": "0",
+ "encryptCode": "0",
+                     "zipCode": "0"
+        }
+    },
+    "globalInfo": {
+        "appId": "AP04",
+        "version": "1.1.20191201",
+        "dataExchangeId": "B741F5702A2B17819A61F127DD114BF5",
+        "interfaceCode": "T111",
+        "requestCode": "TP",
+        "requestTime": "2022-02-03 13:38:07",
+        "responseCode": "TA",
+        "userName": "admin",
+        "deviceMAC": "42010A800004",
+        "deviceNo": "TCS194fa4260515997",
+        "tin": "1000055502",
+        "brn": "",
+        "taxpayerID": "1000055502",
+        "longitude": "0.3638158281194207",
+        "latitude": "32.679369188110776"
+    },
+    "returnStateInfo": {
+        "returnCode": "",
+        "returnMessage": ""
+    }
+}
+2022-02-03 13:36:07 -- {'data': {'content': 'eyJkYXRlRm9ybWF0IjoiZGQvTU0veXl5eSIsIm5vd1RpbWUiOiIyMDIyLzAyLzAzIDEzOjM2OjA4IiwicGFnZSI6eyJwYWdlQ291bnQiOjEsInBhZ2VObyI6MSwicGFnZVNpemUiOjEwLCJ0b3RhbFNpemUiOjF9LCJyZWNvcmRzIjpbeyJhcHBsaWNhdGlvblRpbWUiOiIwMy8wMi8yMDIyIDEzOjM0OjM3IiwiYXBwcm92ZVN0YXR1cyI6IjEwMiIsImJ1c2luZXNzTmFtZSI6Ik5PUkJST09LIChVKSBMVEQiLCJidXllckJ1c2luZXNzTmFtZSI6IkNBU0ggQ1VTVE9NRVIiLCJidXllckxlZ2FsTmFtZSI6IkNBU0ggQ1VTVE9NRVIiLCJjdXJyZW5jeSI6IlVHWCIsImRhdGFTb3VyY2UiOiIxMDYiLCJncm9zc0Ftb3VudCI6Ii0yNDc4MCIsImlkIjoiOTExODY5NzM1MDU4MTgwMjc4IiwiaW52b2ljZUFwcGx5Q2F0ZWdvcnlDb2RlIjoiMTAxIiwibGVnYWxOYW1lIjoiVEVTVCBFRlJJUyIsIm5vd1RpbWUiOiIyMDIyLzAyLzAzIDEzOjM2OjA4Iiwib3JpR3Jvc3NBbW91bnQiOiIyNDc4MCIsIm9yaUludm9pY2VObyI6IjMyMTAyMDIxMDIwNiIsInBhZ2VJbmRleCI6MCwicGFnZU5vIjowLCJwYWdlU2l6ZSI6MCwicmVmZXJlbmNlTm8iOiIyMlBMMDEwMzIzMDgzIiwic291cmNlIjoiMTA2IiwidGluIjoiMTAwMDA1NTUwMiIsInRvdGFsQW1vdW50IjoiLTI0NzgwIiwid2FpdGluZ0RhdGUiOiIwIn1dLCJ0aW1lRm9ybWF0IjoiZGQvTU0veXl5eSBISDI0Om1pOnNzIn0=', 'dataDescription': {'codeType': '0', 'encryptCode': '2', 'zipCode': '0'}, 'signature': 'OTfMd9XLRB/HpN7dYJN9MqNp+bpBSuft5QbBqxJusYIOEWNExN88hWRFEFx2ysAQyXmGG/dOiqsFwJO37xUmVcA5FGcDQtEZ6m3lMmv8mSvmoMU7KGK+njanehvjBDAC4Zoupol+HjBugxEBE5CTzzEYdFYBJy2tDg0HQCBUyd7wvBJ/zR+PwvNIotoL23N3tWjMCQ2KP32lFSjEH2iduygqtK/ph08FMCPHndf6m7hHiQEvHupeSo8XheepT9RbG7Jp4N6/x9cemlWpzWC0tUDwusu+8n8ncDZ+dAd74fL3d/iCGJKU3E/JvmYGJneml2U2T6RhpZOVXbv5lyUYFw=='}, 'globalInfo': {'appId': 'AP02', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS194fa4260515997', 'extendField': {'responseDateFormat': 'dd/MM/yyyy', 'responseTimeFormat': 'dd/MM/yyyy HH:mm:ss'}, 'interfaceCode': 'T111', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-02-03 13:38:07', 'responseCode': 'TA', 'taxpayerID': '1', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '00', 'returnMessage': 'SUCCESS'}}
+2022-02-03 14:19:46 -- {
+    "data": {
+ "content": "eyJyZWZlcmVuY2VObyI6ICIyMlBMMDEwMjY4ODI4IiwgInF1ZXJ5VHlwZSI6ICIxIiwgInBhZ2VObyI6ICIxIiwgInBhZ2VTaXplIjogIjEwIn0=",
+ "signature": "",
+  "dataDescription": {
+  "codeType": "0",
+ "encryptCode": "0",
+                     "zipCode": "0"
+        }
+    },
+    "globalInfo": {
+        "appId": "AP04",
+        "version": "1.1.20191201",
+        "dataExchangeId": "B741F5702A2B17819A61F127DD114BF5",
+        "interfaceCode": "T111",
+        "requestCode": "TP",
+        "requestTime": "2022-02-03 14:21:46",
+        "responseCode": "TA",
+        "userName": "admin",
+        "deviceMAC": "42010A800004",
+        "deviceNo": "TCS194fa4260515997",
+        "tin": "1000055502",
+        "brn": "",
+        "taxpayerID": "1000055502",
+        "longitude": "0.3638158281194207",
+        "latitude": "32.679369188110776"
+    },
+    "returnStateInfo": {
+        "returnCode": "",
+        "returnMessage": ""
+    }
+}
+2022-02-03 14:19:46 -- {'data': {'content': 'eyJkYXRlRm9ybWF0IjoiZGQvTU0veXl5eSIsIm5vd1RpbWUiOiIyMDIyLzAyLzAzIDE0OjE5OjQ2IiwicGFnZSI6eyJwYWdlQ291bnQiOjEsInBhZ2VObyI6MSwicGFnZVNpemUiOjEwLCJ0b3RhbFNpemUiOjF9LCJyZWNvcmRzIjpbeyJhcHBsaWNhdGlvblRpbWUiOiIwNC8xMS8yMDIxIDE0OjU3OjAzIiwiYXBwcm92ZVN0YXR1cyI6IjEwMyIsImJ1c2luZXNzTmFtZSI6Ik5PUkJST09LIChVKSBMVEQiLCJidXllckJ1c2luZXNzTmFtZSI6Ik9LIFNVUEVSTUFSS0VUIExJTUlURUQiLCJidXllckxlZ2FsTmFtZSI6Ik9LIFNVUEVSTUFSS0VUIExJTUlURUQiLCJidXllclRpbiI6IjEwMTY5ODM1ODMiLCJjdXJyZW5jeSI6IlVHWCIsImRhdGFTb3VyY2UiOiIxMDYiLCJncm9zc0Ftb3VudCI6Ii0yNDc4MCIsImlkIjoiMTI2MTQ0NTA0NDMyNDgxNzgzIiwiaW52b2ljZUFwcGx5Q2F0ZWdvcnlDb2RlIjoiMTAxIiwibGVnYWxOYW1lIjoiVEVTVCBFRlJJUyIsIm5vd1RpbWUiOiIyMDIyLzAyLzAzIDE0OjE5OjQ2Iiwib3JpR3Jvc3NBbW91bnQiOiIyMzk1NDAiLCJvcmlJbnZvaWNlTm8iOiIzMjEwMTk5MzUwODUiLCJwYWdlSW5kZXgiOjAsInBhZ2VObyI6MCwicGFnZVNpemUiOjAsInJlZmVyZW5jZU5vIjoiMjJQTDAxMDI2ODgyOCIsInNvdXJjZSI6IjEwNiIsInRpbiI6IjEwMDAwNTU1MDIiLCJ0b3RhbEFtb3VudCI6Ii0yNDc4MCIsIndhaXRpbmdEYXRlIjoiODgifV0sInRpbWVGb3JtYXQiOiJkZC9NTS95eXl5IEhIMjQ6bWk6c3MifQ==', 'dataDescription': {'codeType': '0', 'encryptCode': '2', 'zipCode': '0'}, 'signature': 'Xum7zPCIbZrns2hh+5nJEyRoLoCl79+sit23tm3nWwobUxiC3luA6+nXuu5AuUOWfMPAkJ99puP/t5zNrKxSl9OjU7N47d2BJena0vqgc0PYreQfC67o4gYvUHHzgujX92PU3kNwr4TinSSki2lB7pk1Xq4iKmEfryQGjpxxfmzjPSD76su+BGo8JOtkm7/p1VDqtJzX/IyT0Qi6a62/j44rF6kYUAB2wuCye1qjaDv/SGOC1z+3M3EuAtkntL7sjHi0me1Sqe8rWlm2N62eZ+DMLctvpjz/7bv+xBVdUqWNVQy5XmMHbwVheIBM7Arwyrnx8HgTKFa7JPuxmmvCgQ=='}, 'globalInfo': {'appId': 'AP02', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS194fa4260515997', 'extendField': {'responseDateFormat': 'dd/MM/yyyy', 'responseTimeFormat': 'dd/MM/yyyy HH:mm:ss'}, 'interfaceCode': 'T111', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-02-03 14:21:46', 'responseCode': 'TA', 'taxpayerID': '1', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '00', 'returnMessage': 'SUCCESS'}}
+2022-02-03 14:19:46 -- {
+    "data": {
+ "content": "eyJyZWZlcmVuY2VObyI6ICIyMlBMMDEwMzIzMDgzIiwgInF1ZXJ5VHlwZSI6ICIxIiwgInBhZ2VObyI6ICIxIiwgInBhZ2VTaXplIjogIjEwIn0=",
+ "signature": "",
+  "dataDescription": {
+  "codeType": "0",
+ "encryptCode": "0",
+                     "zipCode": "0"
+        }
+    },
+    "globalInfo": {
+        "appId": "AP04",
+        "version": "1.1.20191201",
+        "dataExchangeId": "B741F5702A2B17819A61F127DD114BF5",
+        "interfaceCode": "T111",
+        "requestCode": "TP",
+        "requestTime": "2022-02-03 14:21:46",
+        "responseCode": "TA",
+        "userName": "admin",
+        "deviceMAC": "42010A800004",
+        "deviceNo": "TCS194fa4260515997",
+        "tin": "1000055502",
+        "brn": "",
+        "taxpayerID": "1000055502",
+        "longitude": "0.3638158281194207",
+        "latitude": "32.679369188110776"
+    },
+    "returnStateInfo": {
+        "returnCode": "",
+        "returnMessage": ""
+    }
+}
+2022-02-03 14:19:46 -- {'data': {'content': 'eyJkYXRlRm9ybWF0IjoiZGQvTU0veXl5eSIsIm5vd1RpbWUiOiIyMDIyLzAyLzAzIDE0OjE5OjQ3IiwicGFnZSI6eyJwYWdlQ291bnQiOjEsInBhZ2VObyI6MSwicGFnZVNpemUiOjEwLCJ0b3RhbFNpemUiOjF9LCJyZWNvcmRzIjpbeyJhcHBsaWNhdGlvblRpbWUiOiIwMy8wMi8yMDIyIDEzOjM0OjM3IiwiYXBwcm92ZVN0YXR1cyI6IjEwMiIsImJ1c2luZXNzTmFtZSI6Ik5PUkJST09LIChVKSBMVEQiLCJidXllckJ1c2luZXNzTmFtZSI6IkNBU0ggQ1VTVE9NRVIiLCJidXllckxlZ2FsTmFtZSI6IkNBU0ggQ1VTVE9NRVIiLCJjdXJyZW5jeSI6IlVHWCIsImRhdGFTb3VyY2UiOiIxMDYiLCJncm9zc0Ftb3VudCI6Ii0yNDc4MCIsImlkIjoiOTExODY5NzM1MDU4MTgwMjc4IiwiaW52b2ljZUFwcGx5Q2F0ZWdvcnlDb2RlIjoiMTAxIiwibGVnYWxOYW1lIjoiVEVTVCBFRlJJUyIsIm5vd1RpbWUiOiIyMDIyLzAyLzAzIDE0OjE5OjQ3Iiwib3JpR3Jvc3NBbW91bnQiOiIyNDc4MCIsIm9yaUludm9pY2VObyI6IjMyMTAyMDIxMDIwNiIsInBhZ2VJbmRleCI6MCwicGFnZU5vIjowLCJwYWdlU2l6ZSI6MCwicmVmZXJlbmNlTm8iOiIyMlBMMDEwMzIzMDgzIiwic291cmNlIjoiMTA2IiwidGluIjoiMTAwMDA1NTUwMiIsInRvdGFsQW1vdW50IjoiLTI0NzgwIiwid2FpdGluZ0RhdGUiOiIwIn1dLCJ0aW1lRm9ybWF0IjoiZGQvTU0veXl5eSBISDI0Om1pOnNzIn0=', 'dataDescription': {'codeType': '0', 'encryptCode': '2', 'zipCode': '0'}, 'signature': 'GEZC63WT12iTRBMwnvwLUIK4iZQ/ds4LaGFAZn31r2mr3uVBg3J8ccdANYcE+hbW2v6XitN3WMwnVGRPK1kAc2XaL/3j+nIfvPwVlmAyWi1bCdFswrhxmbq7rNpz0WHkt0NbklyBfQbV8VHXX1f5NSEAnG+IAgaCfoRMPVifksH1wqRcnkSeSou5yqc3jSc2tk2IVXCk/F5nCf6pFZvDOwYngpChz4lQDa09URcGfBUqSFThGR0TYnwLsgfFHnb5JVH0TpY+UteMUiArRm7T1JID4y5qxdty4TCfTubHeGf1muDpbdvI1G7b9tSDntcEatzQAmNuAfxkLBBJoka8Cg=='}, 'globalInfo': {'appId': 'AP02', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS194fa4260515997', 'extendField': {'responseDateFormat': 'dd/MM/yyyy', 'responseTimeFormat': 'dd/MM/yyyy HH:mm:ss'}, 'interfaceCode': 'T111', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-02-03 14:21:46', 'responseCode': 'TA', 'taxpayerID': '1', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '00', 'returnMessage': 'SUCCESS'}}
+2022-02-03 14:20:47 -- {
+    "data": {
+ "content": "eyJyZWZlcmVuY2VObyI6ICIyMlBMMDEwMjY4ODI4IiwgInF1ZXJ5VHlwZSI6ICIxIiwgInBhZ2VObyI6ICIxIiwgInBhZ2VTaXplIjogIjEwIn0=",
+ "signature": "",
+  "dataDescription": {
+  "codeType": "0",
+ "encryptCode": "0",
+                     "zipCode": "0"
+        }
+    },
+    "globalInfo": {
+        "appId": "AP04",
+        "version": "1.1.20191201",
+        "dataExchangeId": "B741F5702A2B17819A61F127DD114BF5",
+        "interfaceCode": "T111",
+        "requestCode": "TP",
+        "requestTime": "2022-02-03 14:22:47",
+        "responseCode": "TA",
+        "userName": "admin",
+        "deviceMAC": "42010A800004",
+        "deviceNo": "TCS194fa4260515997",
+        "tin": "1000055502",
+        "brn": "",
+        "taxpayerID": "1000055502",
+        "longitude": "0.3638158281194207",
+        "latitude": "32.679369188110776"
+    },
+    "returnStateInfo": {
+        "returnCode": "",
+        "returnMessage": ""
+    }
+}
+2022-02-03 14:20:47 -- {'data': {'content': 'eyJkYXRlRm9ybWF0IjoiZGQvTU0veXl5eSIsIm5vd1RpbWUiOiIyMDIyLzAyLzAzIDE0OjIwOjQ3IiwicGFnZSI6eyJwYWdlQ291bnQiOjEsInBhZ2VObyI6MSwicGFnZVNpemUiOjEwLCJ0b3RhbFNpemUiOjF9LCJyZWNvcmRzIjpbeyJhcHBsaWNhdGlvblRpbWUiOiIwNC8xMS8yMDIxIDE0OjU3OjAzIiwiYXBwcm92ZVN0YXR1cyI6IjEwMyIsImJ1c2luZXNzTmFtZSI6Ik5PUkJST09LIChVKSBMVEQiLCJidXllckJ1c2luZXNzTmFtZSI6Ik9LIFNVUEVSTUFSS0VUIExJTUlURUQiLCJidXllckxlZ2FsTmFtZSI6Ik9LIFNVUEVSTUFSS0VUIExJTUlURUQiLCJidXllclRpbiI6IjEwMTY5ODM1ODMiLCJjdXJyZW5jeSI6IlVHWCIsImRhdGFTb3VyY2UiOiIxMDYiLCJncm9zc0Ftb3VudCI6Ii0yNDc4MCIsImlkIjoiMTI2MTQ0NTA0NDMyNDgxNzgzIiwiaW52b2ljZUFwcGx5Q2F0ZWdvcnlDb2RlIjoiMTAxIiwibGVnYWxOYW1lIjoiVEVTVCBFRlJJUyIsIm5vd1RpbWUiOiIyMDIyLzAyLzAzIDE0OjIwOjQ3Iiwib3JpR3Jvc3NBbW91bnQiOiIyMzk1NDAiLCJvcmlJbnZvaWNlTm8iOiIzMjEwMTk5MzUwODUiLCJwYWdlSW5kZXgiOjAsInBhZ2VObyI6MCwicGFnZVNpemUiOjAsInJlZmVyZW5jZU5vIjoiMjJQTDAxMDI2ODgyOCIsInNvdXJjZSI6IjEwNiIsInRpbiI6IjEwMDAwNTU1MDIiLCJ0b3RhbEFtb3VudCI6Ii0yNDc4MCIsIndhaXRpbmdEYXRlIjoiODgifV0sInRpbWVGb3JtYXQiOiJkZC9NTS95eXl5IEhIMjQ6bWk6c3MifQ==', 'dataDescription': {'codeType': '0', 'encryptCode': '2', 'zipCode': '0'}, 'signature': 'EOu+7Xkq5xKpo1tjke4t/VEoZDrNRWuH+EpI6JZnyrA3WMm8AhAw5xs+YEo47K/TfIn6ypZ/b3etUZyBy0/xcURd7pfu3Lxso4umiKS7WC+FFWgSmd9JlrhiY/zb0ckLRKUisHZE3+mFU/5ytMT8GmGBQkU70ySobyC+EDwfrw9wHHlqeTNLuCW1tLx0KetdlbfrUif5Noj61+sDbF2fk8f+8lyMQtRpin2OknlCghIYBTGtwOAhhcGNbGOEbo50Mp2f8er+omoxiZETw73GJ9pVlIYjtAur9td3I3ApBWQ4/5mXf59V23NYNKpjKTfLaDi3wZ1bjp+ea4cISeXiDw=='}, 'globalInfo': {'appId': 'AP02', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS194fa4260515997', 'extendField': {'responseDateFormat': 'dd/MM/yyyy', 'responseTimeFormat': 'dd/MM/yyyy HH:mm:ss'}, 'interfaceCode': 'T111', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-02-03 14:22:47', 'responseCode': 'TA', 'taxpayerID': '1', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '00', 'returnMessage': 'SUCCESS'}}
+2022-02-03 14:20:47 -- {
+    "data": {
+ "content": "eyJyZWZlcmVuY2VObyI6ICIyMlBMMDEwMzIzMDgzIiwgInF1ZXJ5VHlwZSI6ICIxIiwgInBhZ2VObyI6ICIxIiwgInBhZ2VTaXplIjogIjEwIn0=",
+ "signature": "",
+  "dataDescription": {
+  "codeType": "0",
+ "encryptCode": "0",
+                     "zipCode": "0"
+        }
+    },
+    "globalInfo": {
+        "appId": "AP04",
+        "version": "1.1.20191201",
+        "dataExchangeId": "B741F5702A2B17819A61F127DD114BF5",
+        "interfaceCode": "T111",
+        "requestCode": "TP",
+        "requestTime": "2022-02-03 14:22:47",
+        "responseCode": "TA",
+        "userName": "admin",
+        "deviceMAC": "42010A800004",
+        "deviceNo": "TCS194fa4260515997",
+        "tin": "1000055502",
+        "brn": "",
+        "taxpayerID": "1000055502",
+        "longitude": "0.3638158281194207",
+        "latitude": "32.679369188110776"
+    },
+    "returnStateInfo": {
+        "returnCode": "",
+        "returnMessage": ""
+    }
+}
+2022-02-03 14:20:47 -- {'data': {'content': 'eyJkYXRlRm9ybWF0IjoiZGQvTU0veXl5eSIsIm5vd1RpbWUiOiIyMDIyLzAyLzAzIDE0OjIwOjQ4IiwicGFnZSI6eyJwYWdlQ291bnQiOjEsInBhZ2VObyI6MSwicGFnZVNpemUiOjEwLCJ0b3RhbFNpemUiOjF9LCJyZWNvcmRzIjpbeyJhcHBsaWNhdGlvblRpbWUiOiIwMy8wMi8yMDIyIDEzOjM0OjM3IiwiYXBwcm92ZVN0YXR1cyI6IjEwMiIsImJ1c2luZXNzTmFtZSI6Ik5PUkJST09LIChVKSBMVEQiLCJidXllckJ1c2luZXNzTmFtZSI6IkNBU0ggQ1VTVE9NRVIiLCJidXllckxlZ2FsTmFtZSI6IkNBU0ggQ1VTVE9NRVIiLCJjdXJyZW5jeSI6IlVHWCIsImRhdGFTb3VyY2UiOiIxMDYiLCJncm9zc0Ftb3VudCI6Ii0yNDc4MCIsImlkIjoiOTExODY5NzM1MDU4MTgwMjc4IiwiaW52b2ljZUFwcGx5Q2F0ZWdvcnlDb2RlIjoiMTAxIiwibGVnYWxOYW1lIjoiVEVTVCBFRlJJUyIsIm5vd1RpbWUiOiIyMDIyLzAyLzAzIDE0OjIwOjQ4Iiwib3JpR3Jvc3NBbW91bnQiOiIyNDc4MCIsIm9yaUludm9pY2VObyI6IjMyMTAyMDIxMDIwNiIsInBhZ2VJbmRleCI6MCwicGFnZU5vIjowLCJwYWdlU2l6ZSI6MCwicmVmZXJlbmNlTm8iOiIyMlBMMDEwMzIzMDgzIiwic291cmNlIjoiMTA2IiwidGluIjoiMTAwMDA1NTUwMiIsInRvdGFsQW1vdW50IjoiLTI0NzgwIiwid2FpdGluZ0RhdGUiOiIwIn1dLCJ0aW1lRm9ybWF0IjoiZGQvTU0veXl5eSBISDI0Om1pOnNzIn0=', 'dataDescription': {'codeType': '0', 'encryptCode': '2', 'zipCode': '0'}, 'signature': 'O0a7kbx+2G4rY2KQpqup4fd7iVNakzfLpwfYE/pTqkZDDzz/Q3SRmvDCt2nX9Ev+g5e/TCF+u+TE8QCfBcK8y8gkD4qwAo8KqtR+h1eS9Ibs4f3lHj1nUrq0LKRpog7WEITA849dehNRCZofRH5uhyShliNxMlw41ilMFIt6ZHTZOqdkDz0FOwU9L9Io9gPmGwr+iKVD7OCAxjYpH2LbRWqENKJvAeuFqFVASdl4xWCBXIe+Q5XHq9YTp1oa32GGldGcL3hpzZsaNZ8U45waJTvLuW7A2AGBcib2Uhgb1M5HYgkSDUqJ3Oo3kNbki0+uyPhm01ab9oELVL4UFAx4qw=='}, 'globalInfo': {'appId': 'AP02', 'brn': '', 'dataExchangeId': 'B741F5702A2B17819A61F127DD114BF5', 'deviceMAC': '42010A800004', 'deviceNo': 'TCS194fa4260515997', 'extendField': {'responseDateFormat': 'dd/MM/yyyy', 'responseTimeFormat': 'dd/MM/yyyy HH:mm:ss'}, 'interfaceCode': 'T111', 'latitude': '32.679369188110776', 'longitude': '0.3638158281194207', 'requestCode': 'TP', 'requestTime': '2022-02-03 14:22:47', 'responseCode': 'TA', 'taxpayerID': '1', 'tin': '1000055502', 'userName': 'admin', 'version': '1.1.20191201'}, 'returnStateInfo': {'returnCode': '00', 'returnMessage': 'SUCCESS'}}

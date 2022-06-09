@@ -1,0 +1,9 @@
+2022-06-02 13:38:34 -- EFRIS-0032 was not success due to Device key expired
+2022-06-02 13:38:56 -- EFRIS-0032 was not success due to Device key expired
+2022-06-02 13:40:02 -- EFRIS-0032 was not success due to Device key expired
+2022-06-02 13:41:08 -- EFRIS-0032 was not success due to Device key expired
+2022-06-02 13:42:14 -- EFRIS-0032 was not success due to Device key expired
+2022-06-02 13:43:20 -- EFRIS-0032 was not success due to Device key expired
+2022-06-02 13:44:26 -- EFRIS-0032 was not success due to Device key expired
+2022-06-02 13:45:33 -- EFRIS-0032 was not success due to Device key expired
+2022-06-02 13:46:38 -- EFRIS-0032 was not success due to Device key expired
